@@ -47,10 +47,10 @@
 - [x]  **4. 회고를 잘 작성했나요?**
     - 주어진 문제를 해결하는 완성된 코드 내지 프로젝트 결과물에 대해
     배운점과 아쉬운점, 느낀점 등이 기록되어 있는지 확인
-    - 전체 코드 실행 플로우를 그래프로 그려서 이해를 돕고 있는지 확인
-          ![image](https://github.com/ysKim2000/first-repository/assets/86720575/98da4c29-15b4-4e98-a271-5a36f2d0bbb8)  
-
-        - 잘 작성되었다고 생각되는 부분을 캡쳐해 근거로 첨부합니다.
+    - 전체 코드 실행 플로우를 그래프로 그려서 이해를 돕고 있는지 확인  
+          ![image](https://github.com/ysKim2000/first-repository/assets/86720575/98da4c29-15b4-4e98-a271-5a36f2d0bbb8)   
+            
+      - 잘 작성되었다고 생각되는 부분을 캡쳐해 근거로 첨부합니다.
           ![image](https://github.com/ysKim2000/first-repository/assets/86720575/7ea4f975-7eea-42fe-9b8a-b530c89361fd)  
 
         
