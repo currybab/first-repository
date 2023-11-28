@@ -10,11 +10,11 @@
     퀘스트 문제 요구조건 등을 지칭
         1. 전처리
            ![image](https://github.com/ysKim2000/first-repository/assets/86720575/79d6ff31-dabe-4834-b820-a92f0b6f3465)  
-
-        2. 텍스트 요약 모델 학습
+            
+        2. 텍스트 요약 모델 학습  
            ![image](https://github.com/ysKim2000/first-repository/assets/86720575/8c6bdc2e-82f6-45ca-9b0a-4a54a2c88501)  
            ![image](https://github.com/ysKim2000/first-repository/assets/86720575/c8ffee02-e218-457d-908d-69dc917cdb8b)  
-
+              
         4. Extractive 모델, Abstractive 모델 비교
             1. Extractive
             ![image](https://github.com/ysKim2000/first-repository/assets/86720575/0411f2d6-835f-4668-b42c-b63dc2f74e05)  
