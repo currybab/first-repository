@@ -1,4 +1,4 @@
-<img width="738" alt="스크린샷 2023-12-29 17 39 00" src="https://github.com/currybab/first-repository/assets/100587126/b0b6d25b-565f-437a-9366-222a33372960"># AIFFEL Campus Online Code Peer Review Templete
+
 - 코더 : 박준
 - 리뷰어 : 윤빛나
 
